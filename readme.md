@@ -35,7 +35,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 - Taking action to mitigate threats, such as blocking traffic, quarantining systems, or resetting passwords.
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)  |
+|![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)  |
 | ----------------------- | 
 
 
