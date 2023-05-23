@@ -46,8 +46,11 @@ SIEM systems collect, analyze, and correlate security event information from var
 5. Compliance management: SIEM solutions assist organizations in meeting regulatory compliance requirements by collecting and analyzing relevant security event data and generating compliance reports.
 
 
+
 |  ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)  |
 | ----------------------- | 
+
+
 
 ### SIEM is important and useful in cybersecurity for several reasons:
 **Threat Detection:** SIEM systems enhance an organization's ability to detect and respond to security threats. By analyzing and correlating security events in real time, they can identify malicious activities, such as unauthorized access attempts, malware infections, or suspicious network behavior.
