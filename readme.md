@@ -4,7 +4,7 @@
 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1kTIIRrMuf28PiIC4JrzIzh5L95bdDcaE)   |
+| ![SOC Analyst](https://drive.google.com/uc?export=view&id=1kTIIRrMuf28PiIC4JrzIzh5L95bdDcaE)   |
 | ----------------------- |
 
 SIEM stands for Security Information and Event Management. It is a security solution that helps organizations detect, analyze, and respond to security threats before they harm business operations. SIEM combines both security information management (SIM) and security event management (SEM) into one security management system. 
@@ -12,7 +12,7 @@ SIEM stands for Security Information and Event Management. It is a security solu
 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)  |
+| ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)  |
 | ----------------------- |
 
 
@@ -21,7 +21,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
+| ![Analysis Dashboard](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
 | ----------------------- |
 
 
@@ -35,7 +35,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 - Taking action to mitigate threats, such as blocking traffic, quarantining systems, or resetting passwords.
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)  |
 | ----------------------- | 
 
 
@@ -48,7 +48,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)  |
 | ----------------------- | 
 
 
@@ -66,7 +66,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)  |
 | ----------------------- | 
 
 
