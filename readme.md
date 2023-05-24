@@ -5,7 +5,7 @@
 
 
 
-| ![SOC Analyst](https://drive.google.com/uc?export=view&id=1kTIIRrMuf28PiIC4JrzIzh5L95bdDcaE)   |
+| ![SOC Analyst](https://drive.google.com/uc?export=view&id=1kTIIRrMuf28PiIC4JrzIzh5L95bdDcaE)|
 | ----------------------- |
 
 
@@ -15,7 +15,7 @@ SIEM stands for Security Information and Event Management. It is a security solu
 
 
 
-| ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)  |
+| ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)|
 | ----------------------- |
 
 
@@ -38,7 +38,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 - Taking action to mitigate threats, such as blocking traffic, quarantining systems, or resetting passwords.
 
 
-|![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)  |
+|![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)|
 | ----------------------- | 
 
 
@@ -51,7 +51,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)|
 | ----------------------- | 
 
 
@@ -69,14 +69,14 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)|
 | ----------------------- | 
 
 
 SIEM plays a crucial role in cybersecurity by providing improved threat detection, incident response capabilities, centralized visibility, compliance management, and valuable log data for analysis and investigation. 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=181V7na3khVUcMZ0gn-0lETCSWr8WHo5b)  |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=181V7na3khVUcMZ0gn-0lETCSWr8WHo5b)|
 | ----------------------- |  
 
 Splunk is a leading SIEM (security information and event management) solution that collects, analyzes, and correlates network and machine logs in real time. 
