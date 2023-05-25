@@ -2,7 +2,7 @@
 # How to install Splunk
 
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
+|  ![Network Protocols](https://drive.google.com/uc?export=view&id=12FDtCHn4WLL7HBbYs0BRvkKCMJb1RUv0)  |
 | ----------------------- |
 
 
