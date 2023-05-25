@@ -1,14 +1,8 @@
 
-# TEMPLATE ONLY --- USE THIS TEMPLATE ------ TITLE GOES HERE!
+# How to install Splunk
 
-STEPS TO CREATE A PAGE:
-1. Copy this page
-2. Create a new file
-3. Name your file with extenstion (ie. newpage.md)
-4. Copy your text and add your image/s. 
-5. Click Commit changes.
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
+|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
 | ----------------------- |
 
 
