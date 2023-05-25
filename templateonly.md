@@ -2,7 +2,7 @@
 # TEMPLATE ONLY --- USE THIS TEMPLATE ------ TITLE GOES HERE!
 
 STEPS TO CREATE A PAGE:
-1. Copy this page - 
+1. Copy this page - Top right click on PENCIL icon to edit, copy this markdown page or click on RAW to copy the markdown page.
 2. Create a new file
 3. Name your file with extenstion (ie. newpage.md)
 4. Copy your text and add your image/s. 
