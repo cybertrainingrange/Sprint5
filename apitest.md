@@ -1,9 +1,7 @@
 
 # API (Application Programming Interfaces)👋
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1rxzGhW6orP_iGggyOpTBK9i-MatpVLuA)
-
-API Gateway is a service that acts as an entry point for applications to access data, business logic, or other services through APIs (Application Programming Interfaces). It is a crucial component of modern software architectures and plays an essential role in networking and cybersecurity.
+![Victor Image](https://drive.google.com/uc?export=view&id=1KDITnaTDh-cDJttT7dETSmJ1e5vvCEHi)
 
 API Gateway acts as a reverse proxy that sits between the clients (such as mobile or web applications) and the backend services. It receives requests from the clients, forwards them to the appropriate backend service, and returns the response back to the clients. This decouples the frontend applications from the backend services, allowing them to evolve independently.
 
