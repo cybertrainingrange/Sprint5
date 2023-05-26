@@ -15,8 +15,10 @@ SIEM stands for Security Information and Event Management. It is a security solu
 
 
 
+
 | ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)|
 | ----------------------- |
+
 
 
 
@@ -24,8 +26,10 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
+
 | ![Analysis Dashboard](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
 | ----------------------- |
+
 
 
 
@@ -38,8 +42,10 @@ SIEM systems collect, analyze, and correlate security event information from var
 - Taking action to mitigate threats, such as blocking traffic, quarantining systems, or resetting passwords.
 
 
+
 |![App Screenshot](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)|
 | ----------------------- | 
+
 
 
 ### Additional key functions are:
