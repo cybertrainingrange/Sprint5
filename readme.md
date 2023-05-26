@@ -79,11 +79,16 @@ SIEM systems collect, analyze, and correlate security event information from var
 | ----------------------- | 
 
 
+
 SIEM plays a crucial role in cybersecurity by providing improved threat detection, incident response capabilities, centralized visibility, compliance management, and valuable log data for analysis and investigation. 
+
 
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=181V7na3khVUcMZ0gn-0lETCSWr8WHo5b)|
 | ----------------------- |  
+
+
+
 
 Splunk is a leading SIEM (security information and event management) solution that collects, analyzes, and correlates network and machine logs in real time. 
 Splunk is one of the most popular SIEM tool, but it is not the only one. There are a number of other SIEM tools available, and each has its own strengths and weaknesses.
