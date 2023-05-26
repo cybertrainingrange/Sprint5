@@ -6,7 +6,7 @@
 
 
 
-| ![SOC Analyst](https://drive.google.com/uc?export=view&id=1z-45isKKPgvHPF4Oc4HPVlSY4k_WGQJg)|
+| ![SOC Analyst](https://drive.google.com/uc?export=view&id=1kTIIRrMuf28PiIC4JrzIzh5L95bdDcaE)|
 | ----------------------- |
 
 
