@@ -75,7 +75,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 ## 🔗 Authors: 👐
 
 ### Gyan Lawson
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanlawson/)
 - [@Gyan Lawson](https://github.com/gthedrifter)
 
 ### Ella Owens
