@@ -5,7 +5,7 @@
 
 
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
+|  ![Network Protocols](https://drive.google.com/uc?export=view&id=17ja_xv57V8bZ60wvlzA_ePDDcCJaYMhD)  |
 | ----------------------- |
 
 
