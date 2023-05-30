@@ -69,7 +69,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## Technical Documentation 🤖
 
-[Analyzing Network Protocols](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[Analyzing Network Protocols](https://docs.google.com/document/d/1WvHdUxzUEwoBbq9hnCU3E-fAUpXLPPalO8bm0PNeUkk/edit?usp=drive_link)
 
 
 ## 🔗 Authors: 👐
