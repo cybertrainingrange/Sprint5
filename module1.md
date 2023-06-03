@@ -46,13 +46,34 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 ## 🔗 Authors: 👐
 
 ### Gyan Lawson
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanlawson/)
-- [@Gyan Lawson](https://github.com/gthedrifter)
+
+<p>
+  <a href="https://www.linkedin.com/in/gyanlawson/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/gthedrifter">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 
 ### Ella Owens
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellahowens/)
-- [@Ella Owens](https://github.com/ellaowens)
+<p>
+  <a href="https://github.com/ellaowens">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/ellaowens">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ### Diego Giraldo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-giraldo-39438a214/)
-- [@Diego Giraldo](https://github.com/dagiraldo3)
+<p>
+  <a href="https://www.linkedin.com/in/diego-giraldo-39438a214/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/dagiraldo3">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
