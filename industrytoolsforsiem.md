@@ -34,11 +34,6 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
   </tr>
 </table>
 
-|  ![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)  |
-| ----------------------- |
-
-
-
 
 **There are several SIEM platforms available in the market today, both commercial and open source, each offering different features and capabilities. Here are some notable SIEM tools:**
 
