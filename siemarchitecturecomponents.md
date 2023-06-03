@@ -1,5 +1,5 @@
 
-# How to install Splunk
+# SIEM Architecture and Components
 
 
 |  ![Network Protocols](https://drive.google.com/uc?export=view&id=12FDtCHn4WLL7HBbYs0BRvkKCMJb1RUv0)  |
@@ -72,15 +72,12 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## 🔗 Authors: 👐
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ### Alena 👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-puzach-b999801a7/)
-- [@Alena](https://github.com/emiliedionisio)
+- [@Alena](https://www.linkedin.com/in/alena-puzach-b999801a7/)
 
 
-### Ameha Zewde Lemma 👨
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
-- [@Ameha Zewde Lemma](https://github.com/orgs/cybertrainingrange/people/ameha01)
+### Volha 👨
+- [@Volha](https://www.linkedin.com/in/volha-t-59b7725b/)
 
-### Mayra Castillo👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayra-castillo-barrios/)
-- [@Mayra Castillo](https://github.com/mbarri0s)
