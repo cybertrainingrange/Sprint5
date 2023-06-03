@@ -46,13 +46,28 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 
 ## 🔗 Authors: 👐
+### Alena 👩‍💻
+<p>
+  <a href="https://www.linkedin.com/in/alena-puzach-b999801a7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/alenapuzach">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+### Volha 👩‍💻
+<p>
+  <a href="https://www.linkedin.com/in/volha-t-59b7725b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/voliatalatynik">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-### Alena 👩‍
-- [@Alena](https://www.linkedin.com/in/alena-puzach-b999801a7/)
 
 
-### Volha 👩‍
-- [@Volha](https://www.linkedin.com/in/volha-t-59b7725b/)
+
+
 
