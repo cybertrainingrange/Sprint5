@@ -12,12 +12,13 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td align="top">IBM QRadar: IBM QRadar is another popular commercial SIEM solution that provides real-time monitoring, threat detection, and incident response capabilities. It offers advanced analytics, behavior profiling, and supports a wide range of data sources. QRadar also includes features like vulnerability management and network flow analysis. </td>
     <td><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
     <tr>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1qjj6zyLSg20Qs6FV-JSmw4qAxS_ISd65"></td>
+    <td class="tg-0lax">InsightIDR offers several key features that enhance security operations and threat detection. It collects and correlates log data from various sources, such as network devices, endpoints, and cloud services, to provide a centralized view of an organization's security posture. The tool leverages advanced analytics, machine learning, and behavior-based detection to identify and alert on potential threats and suspicious activities.
+</td>
   </tr>
     <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
+    <td class="tg-0lax">LogRhythm: LogRhythm is a comprehensive commercial SIEM platform that combines SIEM functionality with log management, user and entity behavior analytics (UEBA), and network and endpoint monitoring. It provides real-time threat detection, incident response automation, and compliance reporting.</td>
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=13rK2iKfprfY6TMUyxaFoZqRKyuvgsrmn"></td>
   </tr>
     <tr>
     <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
