@@ -2,13 +2,15 @@
 
 SIEM (Security Information and Event Management) platforms play a crucial role in modern cybersecurity strategies by providing organizations with the ability to effectively manage and analyze security event data from various sources. These platforms integrate essential features such as event correlation, log management, threat intelligence, and incident response to provide comprehensive security monitoring and threat detection capabilities.
 
-**There are several SIEM platforms available in the market today, both commercial and open source, each offering different features and capabilities. Here are some notable SIEM tools:**
 
-
-
+<p align="center">
 |  ![Network Protocols](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)  |
 | ----------------------- |
+</p>
 
+
+
+**There are several SIEM platforms available in the market today, both commercial and open source, each offering different features and capabilities. Here are some notable SIEM tools:**
 
 
 
