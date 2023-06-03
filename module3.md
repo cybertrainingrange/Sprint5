@@ -28,6 +28,13 @@ In conclusion, API Gateway is a crucial component of modern software architectur
 ## 🔗 Author: 👐
 
 ### Victor Walker 👨‍💻
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-walker-iv-b2001118a/)
-- [@Victor Walker](https://github.com/vick627)
+<p>
+  <a href="https://www.linkedin.com/in/victor-walker-iv-b2001118a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/vick627">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 
