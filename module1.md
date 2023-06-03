@@ -5,8 +5,8 @@
 
 
 
-|  ![Intro to SIEM](https://drive.google.com/uc?export=view&id=15uJMC6trtsr62762jeRzxg_c6JCUBFxm)  |
-| ----------------------- |
+![Intro to SIEM](https://drive.google.com/uc?export=view&id=15uJMC6trtsr62762jeRzxg_c6JCUBFxm)
+
 
 
 
