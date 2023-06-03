@@ -78,6 +78,6 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 - [@Alena](https://www.linkedin.com/in/alena-puzach-b999801a7/)
 
 
-### Volha 👨
+### Volha 👩‍
 - [@Volha](https://www.linkedin.com/in/volha-t-59b7725b/)
 
