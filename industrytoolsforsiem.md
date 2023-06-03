@@ -50,7 +50,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 ## Technical Documentation 🤖
 
-[Analyzing Network Protocols](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[Industry Tools for SIEM](https://docs.google.com/document/d/1Kes6PblLwxNGz5Wyp-W_2QexbAl55yPlIv3cX9CI_I4/edit?usp=drive_link)
 
 
 ## 🔗 Authors: 👐
