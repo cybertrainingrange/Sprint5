@@ -9,9 +9,8 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td align="top">Splunk: Splunk is a leading commercial SIEM platform known for its powerful log management and data analytics capabilities. It offers real-time monitoring, event correlation, and a wide range of prebuilt security use cases. Splunk supports integration with various data sources and has a large ecosystem of apps and add-ons.</td>
   </tr>
     <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)</td>
-  </tr>
+    <td align="top">IBM QRadar: IBM QRadar is another popular commercial SIEM solution that provides real-time monitoring, threat detection, and incident response capabilities. It offers advanced analytics, behavior profiling, and supports a wide range of data sources. QRadar also includes features like vulnerability management and network flow analysis. </td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth"></td>
     <tr>
     <td class="tg-0lax">![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)</td>
     <td class="tg-0lax"></td>
