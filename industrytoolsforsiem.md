@@ -11,12 +11,8 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
-    <td class="tg-0lax">
-      
-      ![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)
-   
+    <td class="tg-0lax"><img src="https://drive.google.com/file/d/1JpefoiTCX-YzQSHn_WGvT0X35Xa38qAl/view?usp=drive_link" alt="" width="400">
     </td>
   </tr> 
     <td class="tg-0lax">
@@ -43,7 +39,6 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax"></td>
     <td class="tg-0lax">![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)</td>
   </tr>
-</thead>
 </table>
 
 |  ![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)  |
