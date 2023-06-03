@@ -24,7 +24,7 @@
 
 When analyzing network protocols, two widely used models come into play: **the OSI model and the TCP/IP model.** These models serve as frameworks for understanding and dissecting the different layers of network communication.
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
+| ![App Screenshot](https://drive.google.com/uc?export=view&id=1tSnPku3O5HsdoTAu47_trlW7_8_6TJfA) |
 | ----------------------- |
 
 
@@ -40,7 +40,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## Technical Documentation 🤖
 
-[Analyzing Network Protocols](https://docs.google.com/document/d/1WvHdUxzUEwoBbq9hnCU3E-fAUpXLPPalO8bm0PNeUkk/edit?usp=drive_link)
+[Introduction to SIEM](https://docs.google.com/document/d/1WvHdUxzUEwoBbq9hnCU3E-fAUpXLPPalO8bm0PNeUkk/edit?usp=drive_link)
 
 
 ## 🔗 Authors: 👐
