@@ -5,7 +5,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 <table>
    <tr>
-    <td class="tg-0lax">https://drive.google.com/uc?export=view&id=1JpefoiTCX-YzQSHn_WGvT0X35Xa38qAl</td>
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1JpefoiTCX-YzQSHn_WGvT0X35Xa38qAl"> </td>
     <td class="tg-0lax"></td>
   </tr>
     <tr>
