@@ -40,7 +40,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## 🔗 Author: 👐
 
-### Jane Pierre: <p align="left">
+### Jane Pierre <p align="left">
   <a href="https://www.linkedin.com/in/jane-pierre-page/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
