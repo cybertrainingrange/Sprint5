@@ -2,7 +2,7 @@
 # Module 2: SIEM Architecture and Components
 
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=12FDtCHn4WLL7HBbYs0BRvkKCMJb1RUv0)  |
+|  ![SIEM](https://drive.google.com/uc?export=view&id=1yLRT7nI3qqsHuDdnb-i8KptK6jfDVOIg)  |
 | ----------------------- |
 
 
@@ -25,12 +25,8 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
-![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP) 
+![SIEM](https://drive.google.com/uc?export=view&id=1JJz-dCCwIliXfE2CB0bzIbX-gzYx71jt) 
 
-
-
-
-**The OSI (Open Systems Interconnection) model is a conceptual framework that defines seven layers, each responsible for a specific aspect of network communication. These layers include:** 
 
 1. Physical Layer: Deals with the electrical and physical properties of data transmission, such as cables and network interfaces.
 2. Data Link Layer: Manages the reliable transmission of data across a physical link, addressing errors and controlling flow.
@@ -42,32 +38,11 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
-| ----------------------- |
-
-
-**The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a simplified version of the OSI model, widely used in today's internet communication. It consists of four layers:**
-
-1. Network Interface Layer: Equivalent to the combination of the physical and data link layers in the OSI model.
-2. Internet Layer: Corresponds to the network layer in the OSI model, handling IP addressing, routing, and fragmentation.
-3. Transport Layer: Combines the functions of the transport and session layers in the OSI model, with TCP and UDP protocols responsible for reliable data delivery and connection management.
-4. Application Layer: Similar to the OSI model's application layer, it includes protocols like HTTP, SMTP, FTP, etc., that enable application-level communication.
-
-When using tools like Wireshark or neutral vendor tools, the network traffic is captured at various layers of the OSI or TCP/IP model, depending on the tool's capabilities and configuration. These tools provide detailed packet-level analysis, allowing professionals to examine the headers, payload, and other relevant information for each captured packet.
-
-
-**By analyzing network protocols using such tools, experts can:**
-
-1. Identify and troubleshoot network issues: Analyzing protocol-level data helps pinpoint problems such as packet loss, latency, or misconfigurations at different layers.
-2. Monitor network performance: By examining protocol-specific metrics, professionals can assess the performance of individual protocols, identify bottlenecks, and optimize network resources.
-3. Ensure network security: Analyzing protocols allows for the detection of malicious or abnormal traffic patterns, helping to identify potential security threats and vulnerabilities.
-4. Validate compliance and standards: By comparing captured network traffic against established protocols and standards, professionals can ensure compliance and identify any deviations or non-standard behavior.
-
 Analyzing network protocols using tools like Wireshark or neutral vendor tools allows professionals to gain insights into the intricacies of network communication. The OSI and TCP/IP models provide a framework for understanding the different layers involved in this communication, enabling effective troubleshooting, performance optimization, security analysis, and compliance validation.
 
 ## Technical Documentation 🤖
 
-[Analyzing Network Protocols](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[SIEM Architecture and Components](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
 
 
 ## 🔗 Authors: 👐
