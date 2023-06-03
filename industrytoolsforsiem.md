@@ -24,12 +24,12 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=13rK2iKfprfY6TMUyxaFoZqRKyuvgsrmn"></td>
   </tr>
     <tr>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1a1nBC_7p9F9XPYkdKD_i1hVG_J7Z4cwe"></td>
+    <td class="tg-0lax">McAfee Enterprise Security Manager: McAfee Enterprise Security Manager (ESM) is a commercial SIEM solution that offers centralized log management, real-time monitoring, and advanced analytics. It integrates with other McAfee security products and provides automated incident response workflows.</td>
   </tr>
     <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
+    <td class="tg-0lax">ArcSight: ArcSight, now a Micro Focus product, is a commercial SIEM platform known for its scalability and comprehensive security event management capabilities. It offers real-time monitoring, threat detection, and compliance reporting. ArcSight supports integration with a wide range of data sources and has a rich set of predefined correlation rules.</td>
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1htiYYMKEDDo0a2mn4x7uzeYxQnD6rNJg"></td>
   </tr>
 </table>
 
