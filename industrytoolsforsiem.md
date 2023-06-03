@@ -16,6 +16,10 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
+    <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
 </thead>
 </table>
 
