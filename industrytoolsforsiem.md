@@ -1,4 +1,4 @@
-#Industry Tools for SIEM
+# Industry Tools for SIEM
 
 SIEM (Security Information and Event Management) platforms play a crucial role in modern cybersecurity strategies by providing organizations with the ability to effectively manage and analyze security event data from various sources. These platforms integrate essential features such as event correlation, log management, threat intelligence, and incident response to provide comprehensive security monitoring and threat detection capabilities.
 
