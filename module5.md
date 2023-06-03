@@ -55,8 +55,8 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 ## 🔗 Authors: 👐
 
-### Emilie Dionisio👩‍<p align="left">
-  <p>
+### Emilie Dionisio 👩‍💻
+<p align="left">
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
@@ -65,7 +65,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
   </a>
 </p>
 
-### Ameha Zewde Lemma 👨
+### Ameha Zewde Lemma 👨‍💻
 <p>
   <a href="https://www.linkedin.com/in/ameha-lemma/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -75,7 +75,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
   </a>
 </p>
 
-### Mayra Castillo👩‍
+### Mayra Castillo 👩‍💻
 <p>
   <a href="https://www.linkedin.com/in/mayra-castillo-barrios/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
