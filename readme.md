@@ -12,7 +12,9 @@
 
 
 
+
 SIEM stands for Security Information and Event Management. It is a security solution that helps organizations detect, analyze, and respond to security threats before they harm business operations. SIEM combines both security information management (SIM) and security event management (SEM) into one security management system. 
+
 
 
 
@@ -20,6 +22,7 @@ SIEM stands for Security Information and Event Management. It is a security solu
 
 | ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)|
 | ----------------------- |
+
 
 
 
