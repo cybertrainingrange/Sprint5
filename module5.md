@@ -56,6 +56,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 ## 🔗 Authors: 👐
 
 ### Emilie Dionisio👩‍<p align="left">
+  <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
@@ -64,11 +65,23 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
   </a>
 </p>
 
-
 ### Ameha Zewde Lemma 👨
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
-- [@Ameha Zewde Lemma](https://github.com/orgs/cybertrainingrange/people/ameha01)
+<p>
+  <a href="https://www.linkedin.com/in/ameha-lemma/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/ameha01">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ### Mayra Castillo👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayra-castillo-barrios/)
-- [@Mayra Castillo](https://github.com/mbarri0s)
+<p>
+  <a href="https://www.linkedin.com/in/mayra-castillo-barrios/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="ttps://github.com/mbarri0s">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
