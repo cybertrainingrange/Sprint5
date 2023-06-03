@@ -2,20 +2,13 @@
 
 SIEM (Security Information and Event Management) platforms play a crucial role in modern cybersecurity strategies by providing organizations with the ability to effectively manage and analyze security event data from various sources. These platforms integrate essential features such as event correlation, log management, threat intelligence, and incident response to provide comprehensive security monitoring and threat detection capabilities.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
   <tr>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth" alt="" width="400">
+    <td class><img src="https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth">
     </td>
   </tr> 
-    <td class="tg-0lax">
+    <td class>
     <p>Splunk: Splunk is a leading commercial SIEM platform known for its powerful log management and data analytics capabilities. It offers real-time monitoring, event correlation, and a wide range of prebuilt security use cases. Splunk supports integration with various data sources and has a large ecosystem of apps and add-ons.</>
     </td>
   </tr>
