@@ -6,7 +6,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
+|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)  |
 | ----------------------- |
 
 
