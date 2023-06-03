@@ -72,7 +72,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## 🔗 Authors: 👐
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Alena 👩‍
 - [@Alena](https://www.linkedin.com/in/alena-puzach-b999801a7/)
