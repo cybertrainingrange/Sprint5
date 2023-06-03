@@ -1,7 +1,7 @@
 
 # Module 3: Log Management and Event Correlation
 
-![Victor Image](https://drive.google.com/uc?export=view&id=1KDITnaTDh-cDJttT7dETSmJ1e5vvCEHi)
+![SOC Analyst](https://drive.google.com/uc?export=view&id=1jaGAv6XW1xCj1GgNjvEN1c-Ii2lzaE1R)
 
 API Gateway acts as a reverse proxy that sits between the clients (such as mobile or web applications) and the backend services. It receives requests from the clients, forwards them to the appropriate backend service, and returns the response back to the clients. This decouples the frontend applications from the backend services, allowing them to evolve independently.
 
@@ -12,7 +12,7 @@ In terms of networking, API Gateway helps simplify the network architecture by r
 In terms of cybersecurity, API Gateway plays a crucial role in protecting the backend services from unauthorized access and attacks. It can enforce various security measures, such as authentication, authorization, and encryption, to ensure that only authorized clients can access the services. It can also detect and prevent various types of attacks, such as DDoS (Distributed Denial of Service), SQL injection, and cross-site scripting.
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1SAbg1PGvZZ4W6wH_y1O03DEyGs0LBamX)
+![Log Management](https://drive.google.com/uc?export=view&id=1whSxAWl2mLbiwhZpDb5Afgy9n7wGgyOv)
 
 API Gateway also offers logging and monitoring capabilities, allowing administrators to track and analyze the traffic flow and detect any anomalies or security breaches. This can help organizations quickly respond to security incidents and mitigate their impact.
 
@@ -22,19 +22,12 @@ In conclusion, API Gateway is a crucial component of modern software architectur
 
 ## Technical Documentation 🤖
 
-[API Detailed Information](https://docs.google.com/document/d/1MQ03Is9H1w1KyiAEDCob0WV6TeXHTgwqo7NMqEljQJc/edit?usp=share_link)
-
-[Technical Documentation](https://docs.google.com/document/d/1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE/edit?usp=share_link) by: Emililie Dionisio
-
-[Technical Documentation](https://docs.google.com/document/d/1Nq6TrYQq8HVG1frYjyoTmuyEBSgA3XuCvOMCvMEv88c/edit?usp=share_link) by: Neiman Phillips
+[Technical Documentation](https://docs.google.com/document/d/1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE/edit?usp=share_link)
 
 
-## 🔗 Authors: 👐
+## 🔗 Author: 👐
 
 ### Victor Walker👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-- [@Victor Walker](https://github.com/emiliedionisio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-walker-iv-b2001118a/)
+- [@Victor Walker](https://github.com/vick627)
 
-### Neiman Phillips👨
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neimanphillips/)
-- [@Neiman Phillips](https://github.com/bull-in-the-heather)
