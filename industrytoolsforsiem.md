@@ -1,4 +1,4 @@
-# Industry Tools for SIEM
+# Module 1: Industry Tools for SIEM
 
 
 ![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth) 
