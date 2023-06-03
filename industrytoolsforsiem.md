@@ -10,7 +10,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
   </tr>
     <tr>
     <td align="top">IBM QRadar: IBM QRadar is another popular commercial SIEM solution that provides real-time monitoring, threat detection, and incident response capabilities. It offers advanced analytics, behavior profiling, and supports a wide range of data sources. QRadar also includes features like vulnerability management and network flow analysis. </td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1UcgGOd5AMFmnqK8JyM8aD6BTobST2YoX"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
     <tr>
     <td class="tg-0lax">![SIEM](https://drive.google.com/uc?export=view&id=1VQ2qgGrCqM2Bkqw7ccnSJpTAU8UdbYth)</td>
     <td class="tg-0lax"></td>
