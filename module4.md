@@ -1,8 +1,9 @@
 # Module 4: Threat Intelligence and SIEM
 
 
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
-| ----------------------- |
+
+![SIEM Threat Intelligence](https://drive.google.com/uc?export=view&id=1G8TIDCB9OsRmgUTI1k9ukMKa8P6BD9fq)
+
 
 
 
@@ -22,7 +23,7 @@ When analyzing network protocols, two widely used models come into play: **the O
 
 
 
-![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP) 
+![SIEM Threat Intelligence](https://drive.google.com/uc?export=view&id=1MJLpGPDlSowzyTr9IBX7e7MjYde_aXja) 
 
 
 **By analyzing network protocols using such tools, experts can:**
