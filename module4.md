@@ -42,6 +42,6 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jane-pierre-page/)
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/jjperipheral"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
