@@ -1,5 +1,5 @@
 
-# SIEM Architecture and Components
+# Module 2: SIEM Architecture and Components
 
 
 |  ![Network Protocols](https://drive.google.com/uc?export=view&id=12FDtCHn4WLL7HBbYs0BRvkKCMJb1RUv0)  |
