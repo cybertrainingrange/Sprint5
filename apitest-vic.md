@@ -1,5 +1,5 @@
 
-# API (Application Programming Interfaces)👋 
+# Module 3: Log Management and Event Correlation
 
 ![Victor Image](https://drive.google.com/uc?export=view&id=1KDITnaTDh-cDJttT7dETSmJ1e5vvCEHi)
 
