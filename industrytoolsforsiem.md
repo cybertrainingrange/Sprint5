@@ -7,7 +7,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 
 <table>
-   <tr>
+   <tr align="center">
     <td><img src="https://drive.google.com/uc?export=view&id=1eoj3SeykwP8B8KYltlq9tCTdPvk9VEI9"> </td>
     <td align="top">Splunk: Splunk is a leading commercial SIEM platform known for its powerful log management and data analytics capabilities. It offers real-time monitoring, event correlation, and a wide range of prebuilt security use cases. Splunk supports integration with various data sources and has a large ecosystem of apps and add-ons.</td>
   </tr>
