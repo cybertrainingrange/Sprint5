@@ -1,7 +1,8 @@
 # Module 6: SIEM Use Cases and Real-world Scenarios
 
 
-![SIEM Use Cases](https://drive.google.com/uc?export=view&id=1TyLLs7R-03NzeHy3U8rHcai_bj98_vHR)
+
+[SIEM Use Cases](https://drive.google.com/uc?export=view&id=1TyLLs7R-03NzeHy3U8rHcai_bj98_vHR)
 
 
 
