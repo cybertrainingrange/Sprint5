@@ -45,7 +45,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 ## 🔗 Authors: 👐
 
-### Gyan Lawson
+### Gyan Lawson 👨‍💻
 
 <p>
   <a href="https://www.linkedin.com/in/gyanlawson/">
@@ -57,7 +57,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 </p>
 
 
-### Ella Owens
+### Ella Owens :tech
 <p>
   <a href="https://github.com/ellaowens">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -67,7 +67,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
   </a>
 </p>
 
-### Diego Giraldo
+### Diego Giraldo 👨‍💻
 <p>
   <a href="https://www.linkedin.com/in/diego-giraldo-39438a214/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
