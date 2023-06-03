@@ -38,7 +38,7 @@ Analyzing network protocols using tools like Wireshark or neutral vendor tools a
 
 [Threat Intelligence and SIEM](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
 
-## 🔗 Author: 👐
+## 🔗 Author: 👩‍💻
 
 ### Jane Pierre <p align="left">
   <a href="https://www.linkedin.com/in/jane-pierre-page/">
