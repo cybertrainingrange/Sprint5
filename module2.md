@@ -21,7 +21,7 @@ SIEM (Security Information and Event Management) architecture in AWS involves th
 - Threat Detection and Analysis: This component involves the use of security analytics tools and techniques to analyze the collected logs and detect security threats and anomalies. AWS services like Amazon GuardDuty, AWS Security Hub, and third-party solutions can perform real-time analysis using machine learning, anomaly detection, and rule-based detection mechanisms.
 - Incident Response and Automation: When security events or incidents are detected, an incident response process is triggered. Automation tools and playbooks can help streamline and automate incident response activities. AWS provides services like AWS Systems Manager Automation, AWS Step Functions, and AWS Lambda for automating incident response workflows and executing predefined actions.
 - Visualization and Reporting: The SIEM architecture should include components for visualizing and reporting security events and incidents. This can include using tools like AWS CloudWatch Dashboards, AWS QuickSight, or third-party visualization tools to create dashboards, reports, and metrics for better visibility into the security posture of your AWS environment.
-- ntegration with Security Orchestration, Automation, and Response (SOAR): SOAR platforms integrate with SIEM solutions to enable automated incident response, coordination of security workflows, and integration with third-party security tools. By integrating SIEM with a SOAR platform, you can enhance your incident response capabilities and streamline security operations.
+- Integration with Security Orchestration, Automation, and Response (SOAR): SOAR platforms integrate with SIEM solutions to enable automated incident response, coordination of security workflows, and integration with third-party security tools. By integrating SIEM with a SOAR platform, you can enhance your incident response capabilities and streamline security operations.
 
 ![SIEM](https://drive.google.com/uc?export=view&id=1JJz-dCCwIliXfE2CB0bzIbX-gzYx71jt) 
 
@@ -32,7 +32,7 @@ It's important to note that the specific components and their configuration may 
 
 ## Technical Documentation 🤖
 
-[SIEM Architecture and Components](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[SIEM Architecture and Components](https://docs.google.com/document/d/1zTjHRLag1NCbmbPf59g8oWAgamhB6Tfkbh3LnbbCb2U/edit?usp=drive_link)
 
 
 ## 🔗 Authors: 👐
