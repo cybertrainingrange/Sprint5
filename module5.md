@@ -154,7 +154,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <tr align="center">
     <td class="tg-0lax">Wazuh is an open-source security platform that incorporates SIEM (Security Information and Event Management) functionalities. It is designed to provide real-time threat detection, log analysis, and compliance monitoring capabilities for organizations.
 Wazuh acts as an agent-based intrusion detection system (IDS) and host-based security solution. It integrates with various data sources, such as logs from operating systems, applications, and security devices, to collect and analyze security events. These events are then correlated and processed to identify potential threats and security incidents.</td>
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1Vf8ouBts1QZ9qH98e1NjL2ULqMlnXCcd">
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1KT_juwi50QZRE9anzGjXxCxAl0VVSdZJ">
 </td>
   </tr>
 </table>
