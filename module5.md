@@ -233,7 +233,7 @@ Wazuh acts as an agent-based intrusion detection system (IDS) and host-based sec
 
 <!-- Additional Information -->
 
-## The importance of SIEM tools lies in their ability to provide organizations with a proactive and holistic approach to cybersecurity. Here are some reasons why SIEM tools are important:
+### The importance of SIEM tools lies in their ability to provide organizations with a proactive and holistic approach to cybersecurity. Here are some reasons why SIEM tools are important:
 
 - **Threat Detection:** SIEM tools help detect and identify potential security threats, attacks, and breaches by analyzing and correlating data from various sources. They enable organizations to identify malicious activities, anomalies, and patterns that may indicate an ongoing attack or security incident.
 - **Incident Response:** SIEM platforms provide real-time alerting and incident response capabilities, allowing organizations to respond quickly to security incidents. They help streamline and automate incident response workflows, enabling faster containment, mitigation, and recovery.
