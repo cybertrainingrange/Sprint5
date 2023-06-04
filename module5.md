@@ -152,12 +152,11 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 <!-- ![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP)
 
-
-
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
 | ----------------------- |
 -->
 
+<!-- Technical Documentation -->   
 ## Technical Documentation 🤖
 
 [Industry Tools for SIEM](https://docs.google.com/document/d/1Kes6PblLwxNGz5Wyp-W_2QexbAl55yPlIv3cX9CI_I4/edit?usp=drive_link)
