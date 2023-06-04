@@ -159,7 +159,9 @@ Wazuh acts as an agent-based intrusion detection system (IDS) and host-based sec
   </tr>
 </table>
 <!-- Open Source Comparison -->
+
 ## Below is a comparison table highlighting key features and characteristics of the open-source SIEM tools.
+
 <table>
    <tr>
       <td>
