@@ -140,7 +140,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
 
 <table>
    <tr align="center">
-    <td><img src="https://drive.google.com/uc?export=view&id=1eoj3SeykwP8B8KYltlq9tCTdPvk9VEI9"> </td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1DJqMvCHwCoN9Qn77DwBlWukt6VYoraq5"> </td>
     <td align="top">Elastic Security: Elastic Security (formerly known as the ELK Stack) is an open-source SIEM platform built on the Elasticsearch, Logstash, and Kibana (ELK) stack. It offers log management, real-time analytics, and visualization capabilities. Elastic Security is highly flexible and can be extended with additional modules and plugins.</td>
   </tr>
     <tr align="center">
