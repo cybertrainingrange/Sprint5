@@ -151,6 +151,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax">Security Onion is a widely used open-source cybersecurity platform that incorporates various security monitoring capabilities, including elements of a SIEM (Security Information and Event Management) system. It is specifically designed to provide network security monitoring, intrusion detection, and log management capabilities.
 </td>
   </tr>
+   
 </table>
 
 <!-- ![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP)
