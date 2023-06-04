@@ -79,6 +79,58 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
         Steeper learning curve and may require specialized expertise
       </td>
    </tr>
+   <tr>
+      <td><b>LogRhythm</b>
+      </td> 
+      <td>
+          Real-time threat monitoring and behavior analytics
+      </td>
+      <td>
+         Powerful analytics capabilities
+      </td>
+      <td>
+        May require additional customization for specific requirements
+      </td>
+   </tr>
+   <tr>
+      <td><b>ArcSight</b>
+      </td> 
+      <td>
+          Real-time event correlation and comprehensive security analytics
+      </td>
+      <td>
+         Robust event correlation capabilities
+      </td>
+      <td>
+        Requires dedicated resources for effective implementation
+      </td>
+   </tr>
+     <tr>
+      <td><b>McAfee Enterprise Security Manager</b>
+      </td> 
+      <td>
+          Real-time monitoring and threat intelligence
+      </td>
+      <td>
+         Comprehensive threat visibility and strong integration
+      </td>
+      <td>
+        Complex user interface and learning curve for advanced features
+      </td>
+   </tr>
+   <tr>
+      <td><b>Rapid7</b>
+      </td> 
+      <td>
+          Threat intelligence, log management, and behavior analytics
+      </td>
+      <td>
+         User-friendly interface and cloud-based deployment 
+      </td>
+      <td>
+        CLimited scalability compared to other enterprise-focused tools
+      </td>
+   </tr>
 </table>
 
 
