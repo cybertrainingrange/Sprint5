@@ -158,7 +158,76 @@ Wazuh acts as an agent-based intrusion detection system (IDS) and host-based sec
 </td>
   </tr>
 </table>
-
+<!-- Open Source Comparison -->
+## Below is a comparison table highlighting key features and characteristics of the open-source SIEM tools.
+<table>
+   <tr>
+      <td>
+         <b>SIEM Tool</b>
+      </td>
+      <td>
+         <b>Key Features</b>
+      </td>
+      <td>
+         <b>Strengths</b>
+      </td>
+      <td>
+         <b>Considerations</b>
+      </td>
+   </tr>
+   <tr>
+      <td><b>ELK Stack</b>
+      </td> 
+      <td>
+          Elasticsearch, Logstash, and Kibana integration
+      </td>
+      <td>
+         Highly scalable and customizable
+      </td>
+      <td>
+         Requires technical expertise for setup and configuration
+      </td>
+   </tr>
+   <tr>
+      <td><b>AlienVault OSSIM</b>
+      </td> 
+      <td>
+          Threat detection, incident response, and compliance
+      </td>
+      <td>
+         Unified security platform with built-in threat intelligence
+      </td>
+      <td>
+        Can have a steeper learning curve for inexperienced users
+      </td>
+   </tr>
+   <tr>
+      <td><b>Security Onion</b>
+      </td> 
+      <td>
+          Network security monitoring and threat hunting
+      </td>
+      <td>
+         Integrated suite of security tools and analysis capabilities
+      </td>
+      <td>
+        Configuration and maintenance can be complex
+      </td>
+   </tr>
+   <tr>
+      <td><b>Wazuh</b>
+      </td> 
+      <td>
+          Host-based intrusion detection and log analysis
+      </td>
+      <td>
+          Agent-based solution with real-time threat detection
+      </td>
+      <td>
+        Initial setup and configuration may require technical knowledge
+      </td>
+   </tr>
+</table>
 <!-- ![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP)
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
