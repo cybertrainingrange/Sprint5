@@ -230,6 +230,18 @@ Wazuh acts as an agent-based intrusion detection system (IDS) and host-based sec
       </td>
    </tr>
 </table>
+
+<!-- Additional Information -->
+
+The importance of SIEM tools lies in their ability to provide organizations with a proactive and holistic approach to cybersecurity. Here are some reasons why SIEM tools are important:
+
+- **Threat Detection:** SIEM tools help detect and identify potential security threats, attacks, and breaches by analyzing and correlating data from various sources. They enable organizations to identify malicious activities, anomalies, and patterns that may indicate an ongoing attack or security incident.
+- **Incident Response:** SIEM platforms provide real-time alerting and incident response capabilities, allowing organizations to respond quickly to security incidents. They help streamline and automate incident response workflows, enabling faster containment, mitigation, and recovery.
+- **Compliance and Regulations:** SIEM tools assist organizations in meeting regulatory compliance requirements by providing comprehensive log management, reporting, and auditing capabilities. They help organizations generate compliance reports, track security events, and demonstrate adherence to industry-specific regulations.
+- **Visibility and Analytics:** SIEM solutions offer centralized visibility into an organization's security posture by aggregating and analyzing data from multiple sources. They provide security teams with insights, trends, and contextual information to make informed decisions, prioritize security tasks, and identify potential vulnerabilities.
+- **Forensic Analysis:** SIEM platforms support forensic analysis by retaining and indexing security event data. This enables organizations to investigate security incidents, conduct root cause analysis, and perform historical analysis for post-incident forensics.
+
+
 <!-- ![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP)
 
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
