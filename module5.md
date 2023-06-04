@@ -144,11 +144,11 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td align="top">Elastic Security: Elastic Security (formerly known as the ELK Stack) is an open-source SIEM platform built on the Elasticsearch, Logstash, and Kibana (ELK) stack. It offers log management, real-time analytics, and visualization capabilities. Elastic Security is highly flexible and can be extended with additional modules and plugins.</td>
   </tr>
     <tr align="center">
-    <td align="top">IBM QRadar: IBM QRadar is another popular commercial SIEM solution that provides real-time monitoring, threat detection, and incident response capabilities. It offers advanced analytics, behavior profiling, and supports a wide range of data sources. QRadar also includes features like vulnerability management and network flow analysis. </td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1e3JE3HCDdkpOA13z0shEQURO7WlbKgJW"></td>
+    <td align="top">AlienVault® OSSIM™ is an open-source security information and event management (SIEM) solution that offers a comprehensive set of features for event collection, normalization, and correlation. It provides a rich array of capabilities necessary for effective security operations, including event collection from diverse sources, standardization of event formats, and correlation of events for meaningful insights. </td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1cCOG6rvchczMLuabllMjKg-TgzjN1NZR"></td>
     <tr align="center">
-    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1qjj6zyLSg20Qs6FV-JSmw4qAxS_ISd65"></td>
-    <td class="tg-0lax">InsightIDR offers several key features that enhance security operations and threat detection. It collects and correlates log data from various sources, such as network devices, endpoints, and cloud services, to provide a centralized view of an organization's security posture. The tool leverages advanced analytics, machine learning, and behavior-based detection to identify and alert on potential threats and suspicious activities.
+    <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1Vf8ouBts1QZ9qH98e1NjL2ULqMlnXCcd"></td>
+    <td class="tg-0lax">Security Onion is a widely used open-source cybersecurity platform that incorporates various security monitoring capabilities, including elements of a SIEM (Security Information and Event Management) system. It is specifically designed to provide network security monitoring, intrusion detection, and log management capabilities.
 </td>
   </tr>
 </table>
