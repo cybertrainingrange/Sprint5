@@ -148,7 +148,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax">InsightIDR offers several key features that enhance security operations and threat detection. It collects and correlates log data from various sources, such as network devices, endpoints, and cloud services, to provide a centralized view of an organization's security posture. The tool leverages advanced analytics, machine learning, and behavior-based detection to identify and alert on potential threats and suspicious activities.
 </td>
   </tr>
-
+</table>
 
 <!-- ![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP)
 
