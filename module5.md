@@ -65,6 +65,19 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
          Higher licensing costs compared to other SIEM tools
       </td>
    </tr>
+   <tr>
+      <td><b>IBM Q Radar</b>
+      </td> 
+      <td>
+          Advanced threat detection and event correlation
+      </td>
+      <td>
+         Strong threat intelligence and event correlation capabilities
+      </td>
+      <td>
+        Steeper learning curve and may require specialized expertise
+      </td>
+   </tr>
 </table>
 
 
