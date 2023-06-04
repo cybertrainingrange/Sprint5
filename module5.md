@@ -35,6 +35,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
     <td class="tg-0lax"><img src="https://drive.google.com/uc?export=view&id=1htiYYMKEDDo0a2mn4x7uzeYxQnD6rNJg"></td>
   </tr>
 </table>
+
 ## Key Features and Strengths of the top SIEM Tools Enterprise 
 
 <table>
