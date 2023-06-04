@@ -135,6 +135,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
    </tr>
 </table>
 <!-- Open Source SIEM -->
+
 <table>
    <tr align="center">
     <td><img src="https://drive.google.com/uc?export=view&id=1eoj3SeykwP8B8KYltlq9tCTdPvk9VEI9"> </td>
