@@ -31,7 +31,7 @@ Integration with Security Orchestration, Automation, and Response (SOAR): SOAR p
 
 
 
-![SIEM](https://drive.google.com/uc?export=view&id=15s1NcBZj2SKbvktOz-tYlXeHv8XRp1l5) 
+![SIEM](https://drive.google.com/uc?export=view&id=1KpT9N8KAqEnO9K17NIh35ojFPPZmJ0ou) 
 
 
 
