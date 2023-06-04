@@ -26,6 +26,8 @@ Analyzing network protocols is a crucial aspect of network troubleshooting, secu
 When analyzing network protocols, two widely used models come into play: **the OSI model and the TCP/IP model.** These models serve as frameworks for understanding and dissecting the different layers of network communication.
 Integration with Security Orchestration, Automation, and Response (SOAR): SOAR platforms integrate with SIEM solutions to enable automated incident response, coordination of security workflows, and integration with third-party security tools. By integrating SIEM with a SOAR platform, you can enhance your incident response capabilities and streamline security operations.
 
+
+
 ![SIEM](https://drive.google.com/uc?export=view&id=1JJz-1KpT9N8KAqEnO9K17NIh35ojFPPZmJ0ou) 
 
 
