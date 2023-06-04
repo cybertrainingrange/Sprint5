@@ -54,15 +54,15 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
    </tr>
    <tr>
       <td><b>Splunk</b>
+      </td> 
+      <td>
+         Powerful log management and analytics capabilities
       </td>
-      Powerful log management and analytics capabilities
       <td>
          Robust data indexing and search capabilities
       </td>
       <td>
          Higher licensing costs compared to other SIEM tools
-      </td>
-      <td>
       </td>
    </tr>
 </table>
