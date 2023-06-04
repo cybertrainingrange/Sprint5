@@ -53,7 +53,7 @@ SIEM (Security Information and Event Management) platforms play a crucial role i
       </td>
    </tr>
    <tr>
-      <td>
+      <td><b>Splunk</b>
       </td>
       <td>
       </td>
