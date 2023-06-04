@@ -10,7 +10,7 @@
 
 
 
-| SIEM (Security Information and Event Management) architecture in AWS involves the integration of various components to collect, analyze, and respond to security events and incidents.  |
+SIEM (Security Information and Event Management) architecture in AWS involves the integration of various components to collect, analyze, and respond to security events and incidents.  |
 
 **Here are the key components and their roles in an AWS SIEM architecture.**
 
