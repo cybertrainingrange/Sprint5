@@ -126,9 +126,9 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 ![Trello](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
 
 
-- [Trello Schedule 1](https://drive.google.com/uc?export=view&id=1qciuFB7R76sXxI5XW3_kahIdqIDCzeX4)
-- [Trello Schedule 2](https://drive.google.com/uc?export=view&id=1B2-ykP7T6VOYzNzK37UVa-htCVWWV1uP)
-- [Trello Schedule 3](https://drive.google.com/uc?export=view&id=1Nxxf361UwZO0KH3JSXKQcFKULWqc4sdU)
+- [Trello Stage 1](https://drive.google.com/uc?export=view&id=1qciuFB7R76sXxI5XW3_kahIdqIDCzeX4)
+- [Trello Stage 2](https://drive.google.com/uc?export=view&id=1B2-ykP7T6VOYzNzK37UVa-htCVWWV1uP)
+- [Trello Stage 3](https://drive.google.com/uc?export=view&id=1Nxxf361UwZO0KH3JSXKQcFKULWqc4sdU)
 
 ## Team A Members 👩‍💻|👨‍💻
 - Alena [@alena](https://www.github.com/)
