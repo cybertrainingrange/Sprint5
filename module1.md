@@ -26,6 +26,7 @@ SIEM is a centralized security solution that collects, analyzes, and correlates 
 -Incident Response and Forensics: SIEM facilitates incident response by providing comprehensive visibility into security events. It helps security teams investigate and analyze incidents, conduct forensic analysis, and take appropriate remedial actions.
 
 
+
 | ![App Screenshot](https://drive.google.com/uc?export=view&id=1tSnPku3O5HsdoTAu47_trlW7_8_6TJfA) |
 | ----------------------- |
 
