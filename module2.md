@@ -3,8 +3,10 @@
 
 
 
-|  ![SIEM](https://drive.google.com/uc?export=view&id=1yLRT7nI3qqsHuDdnb-i8KptK6jfDVOIg)  |
-| ----------------------- |
+
+
+![SIEM](https://drive.google.com/uc?export=view&id=1yLRT7nI3qqsHuDdnb-i8KptK6jfDVOIg)
+
 
 
 
