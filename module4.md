@@ -6,39 +6,30 @@
 ![SIEM Threat Intelligence](https://drive.google.com/uc?export=view&id=1G8TIDCB9OsRmgUTI1k9ukMKa8P6BD9fq)
 
 
+In the realm of cybersecurity, a sturdy defense mechanism is anchored by two critical elements: Security Information and Event Management (SIEM) and Threat Intelligence. SIEM technology, with its capacity to analyze security alerts in real-time, emanating from network hardware and applications, is pivotal for proactive security incident management. This technology amasses and scrutinizes log data, identifies aberrant behavior, and furnishes actionable alerts, offering organizations a sweeping outlook of their security situation (Scarfone, K., & Mell, P., 2007).
 
-
-Analyzing network protocols is a crucial aspect of network troubleshooting, security analysis, and performance optimization. Network protocols govern the rules and procedures for data communication between devices in a network. To analyze network protocols effectively, professionals often rely on tools like Wireshark or other neutral vendor tools, which provide detailed insights into the traffic flowing through the network. |
-| Network protocol analysis is the process of examining the data packets that are transmitted over a network. This can be done for a variety of purposes, including troubleshooting network problems, detecting security threats, and analyzing network traffic. |
-
-**There are a number of tools that can be used for network protocol analysis. Some of the most popular tools include.**
-
-- Wireshark: Wireshark is a free and open-source network protocol analyzer. It is one of the most powerful tools available for network protocol analysis.
-- NetworkMiner: Network Miner is a commercial network protocol analyzer. It offers a number of features that are not available in Wireshark, such as the ability to decode encrypted traffic.
-- tcpdump: tcpdump is a command-line network protocol analyzer. It is a powerful tool, but it can be difficult to use.
-- ngrep: ngrep is a command-line network protocol analyzer that is similar to tcpdump. It is easier to use than tcpdump, but it does not offer as many features.
-- Microsoft Network Monitor: Microsoft Network Monitor is a commercial network protocol analyzer that is included with Windows Server. It is a powerful tool, but it is not as widely used as Wireshark or Network Miner.
-
-When analyzing network protocols, two widely used models come into play: **the OSI model and the TCP/IP model.** These models serve as frameworks for understanding and dissecting the different layers of network communication.
-
+Complementing SIEM, Threat Intelligence works to dissect the methodologies, motivations, and targets of potential threat actors. It involves the compilation, processing, and analysis of data about potential or active threats, providing organizations with the intelligence needed for informed security decisions. Integrating Threat Intelligence with SIEM reinforces an organization's ability to anticipate, identify, and address cyber threats (Liska, A., 2014).  Together, SIEM and Threat Intelligence form a formidable strategy for cybersecurity defense. The swift evolution of the cybersecurity landscape necessitates practical, hands-on training with such tools, thus underlining the importance of their inclusion in comprehensive cybersecurity training programs.
 
 
 
 ![SIEM Threat Intelligence](https://drive.google.com/uc?export=view&id=1MJLpGPDlSowzyTr9IBX7e7MjYde_aXja) 
 
 
-**By analyzing network protocols using such tools, experts can:**
+The proposed lesson module for a cybersecurity training range encapsulates this philosophy. It provides an all-inclusive study of SIEM and Threat Intelligence, interweaving theoretical concepts and practical exercises. Students delve into the different types of Threat Intelligence—Strategic, Tactical, Operational, and Technical—while also understanding the role of SIEM within a cybersecurity framework (Liska, A., 2014).  Engaging, hands-on activities involve using AWS services such as GuardDuty, Detective, and Security Hub, along with the open-source tool Wazuh, to gain practical experience in SIEM and Threat Intelligence (Amazon Web Services, 2023; Wazuh, 2023).  To enhance real-world understanding, students are also prompted to analyze notable cybersecurity incidents, including the Target Data Breach and the SolarWinds Attack, thereby understanding the practical application of SIEM and Threat Intelligence in threat detection and response (Perlroth, N., 2020; Krebs, B., 2020). This balanced blend of theoretical understanding and practical application, inherent in the module, is designed to give students a comprehensive grasp of how SIEM integrates with Threat Intelligence, thereby bolstering their security detection capabilities.
 
-1. Identify and troubleshoot network issues: Analyzing protocol-level data helps pinpoint problems such as packet loss, latency, or misconfigurations at different layers.
-2. Monitor network performance: By examining protocol-specific metrics, professionals can assess the performance of individual protocols, identify bottlenecks, and optimize network resources.
-3. Ensure network security: Analyzing protocols allows for the detection of malicious or abnormal traffic patterns, helping to identify potential security threats and vulnerabilities.
-4. Validate compliance and standards: By comparing captured network traffic against established protocols and standards, professionals can ensure compliance and identify any deviations or non-standard behavior.
+## References
 
-Analyzing network protocols using tools like Wireshark or neutral vendor tools allows professionals to gain insights into the intricacies of network communication. The OSI and TCP/IP models provide a framework for understanding the different layers involved in this communication, enabling effective troubleshooting, performance optimization, security analysis, and compliance validation.
+Amazon Web Services. (2023). AWS Security Services. Retrieved from [AWS](https://aws.amazon.com/security/)
+Krebs, B. (2020). A 'stunning' attack rattles an information security industry. The New York Times. Retrieved from [New York Timess](https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html)
+Liska, A. (2014). The practice of network security monitoring: understanding incident detection and response. No Starch Press.
+Perlroth, N. (2020). How the U.S. was blindsided by the cyber-offensive out of Russia. The New York Times. Retrieved from [New York Times](https://www.nytimes.com/2020/12/17/us/politics/russia-cyber-hack-trump.html)
+Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS). NIST Special Publication, 800(2007), 94. Retrieved from [NIST Publication](https://csrc.nist.gov/publications/detail/sp/800-94/final)
+Wazuh. (2023). Open source security platform. Retrieved from [Wazuh](https://wazuh.com/)
+
 
 ## Technical Documentation 🤖
 
-[Threat Intelligence and SIEM](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[Threat Intelligence and SIEM](https://docs.google.com/document/d/1b6XRifu6GrG2PE__bY1PCyEI1Y6wmvTb)
 
 ## 🔗 Author: 👩‍💻
 
