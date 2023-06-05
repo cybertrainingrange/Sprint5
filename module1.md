@@ -15,7 +15,9 @@ In today's interconnected and digitized world, cybersecurity has become a crucia
 
 SIEM is a centralized security solution that collects, analyzes, and correlates security event data from various sources within an organization's IT infrastructure. It brings together logs and data from network devices, servers, applications, and security systems, creating a comprehensive security management system. The SIEM system helps organizations gain real-time visibility into security events, detect potential threats, and respond promptly to mitigate risks.
 
+
 **Key Components of SIEM:
+
 
 - Log Collection: SIEM collects and aggregates logs from various sources, including firewalls, intrusion detection systems, servers, and endpoints. These logs provide crucial information about user activities, network traffic, system events, and potential security incidents.
 - Log Management: SIEM stores and manages collected logs, ensuring data integrity, availability, and scalability. Logs are indexed and archived for easy retrieval and analysis.
