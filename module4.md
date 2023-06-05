@@ -26,12 +26,19 @@ Perlroth, N. (2020). How the U.S. was blindsided by the cyber-offensive out of R
 Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS). NIST Special Publication, 800(2007), 94. Retrieved from [NIST Publication](https://csrc.nist.gov/publications/detail/sp/800-94/final)
 Wazuh. (2023). Open source security platform. Retrieved from [Wazuh](https://wazuh.com/)
 
+## Module Guides 🤖
+
+[Module 4 - Threat Intelligence and SIEM: Instructor's Guide](https://drive.google.com/file/d/1DAtrzSiTnPulALYw2hCVT5GG3-rB8_Lf/view?usp=share_link)
+
+[Module 4 - Threat Intelligence and SIEM: Student's Guide](https://drive.google.com/file/d/1UTt4KavASu763pDgS_E6Udv9nnc-gGwt/view?usp=share_link)
+
+[Module 4 - Threat Intelligence and SIEM: Student Activities Appendix](https://drive.google.com/file/d/1dwUM3VJFeuqU5eN44Xqb6X_yXbx3BSRt/view?usp=share_link)
 
 ## Technical Documentation 🤖
 
 [Threat Intelligence and SIEM](https://docs.google.com/document/d/1b6XRifu6GrG2PE__bY1PCyEI1Y6wmvTb)
 
-## 🔗 Author: 👩‍💻
+## 🔗 Author 👩🏽‍💻 
 
 ### Jane Pierre <p align="left">
   <a href="https://www.linkedin.com/in/jane-pierre-page/">
