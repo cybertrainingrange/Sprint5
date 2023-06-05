@@ -110,7 +110,7 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 | Securonix Singularity SIEM  | MozDef  |
 | AlienVault Unified Security Management (USM)  | 	Prelude OSS  |
 | SIEMonster SIEM  | Snort  |
-| ManageEngine Log360  | 	ASagan  |
+| ManageEngine Log360  | 	Asagan  |
 
 
 
