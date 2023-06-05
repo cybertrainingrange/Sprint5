@@ -44,11 +44,6 @@ SIEM is a centralized security solution that collects, analyzes, and correlates 
 In conclusion, SIEM plays a pivotal role in enhancing cybersecurity and threat management. By collecting, analyzing, and correlating security event data, SIEM provides organizations with real-time visibility into their security landscape, enabling proactive threat detection, incident response, and compliance management. As cyber threats continue to evolve, SIEM stands as a vital tool in safeguarding organizations against potential breaches and ensuring the integrity and security of their digital assets.
 
 
-## Technical Documentation 🤖
-
-[Introduction to SIEM](https://docs.google.com/document/d/1WvHdUxzUEwoBbq9hnCU3E-fAUpXLPPalO8bm0PNeUkk/edit?usp=drive_link)
-
-
 ## 🔗 Authors: 👐
 
 ### Gyan Lawson 👨‍💻
