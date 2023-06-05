@@ -53,6 +53,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
+
 ### Additional key functions are:
 1. Log management: SIEM solutions collect and store log data from diverse sources, enabling centralized management and analysis of security events.
 2. Real-time event correlation: The system correlates and analyzes security events in real time, identifying patterns and relationships that may indicate potential security threats.
@@ -117,6 +118,7 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 
 ## Technical Documentation 🛠 
 
+[Summary](
 [Technical Documentation](https://docs.google.com/document/d/1oMwmo2FV5TQgzjM4yo7yix7XyHhpc-GkhHy-9ClnR5Y/edit?usp=drive_link)
 
 
