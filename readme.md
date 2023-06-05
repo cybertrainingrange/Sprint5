@@ -19,7 +19,6 @@ SIEM stands for Security Information and Event Management. It is a security solu
 
 
 
-
 | ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)|
 | ----------------------- |
 
