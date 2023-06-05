@@ -29,8 +29,9 @@ SIEM is a centralized security solution that collects, analyzes, and correlates 
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1tSnPku3O5HsdoTAu47_trlW7_8_6TJfA) |
-| ----------------------- |
+![App Screenshot](https://drive.google.com/uc?export=view&id=1tSnPku3O5HsdoTAu47_trlW7_8_6TJfA)
+
+
 
 
 
