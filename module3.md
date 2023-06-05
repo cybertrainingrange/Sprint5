@@ -21,7 +21,7 @@ Security Information and Event Management (SIEM) is a vital player to any organi
 
 ## Technical Documentation 🤖
 
-[Technical Documentation](https://docs.google.com/document/d/1YA5fSLGdHHZcd9IHpXuNLxLMBFTlqUXmJwzYcVVQ9xE/edit?usp=share_link)
+[Log Management](https://docs.google.com/document/d/10DInJT_wobbbFMe-VgmgwMpbSI9qCeoiYvlA1VswAFo/edit?usp=sharing)
 
 
 ## 🔗 Author: 👐
