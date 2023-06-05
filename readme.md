@@ -118,7 +118,7 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 
 ## Technical Documentation 🛠 
 
-[Summary](
+[Summary](https://docs.google.com/document/d/1KWW-1bb8EUY5_da-S-0hzxSuGiNTW5dUOb-m2mxwjM4/edit?usp=drive_link)
 [Technical Documentation](https://docs.google.com/document/d/1oMwmo2FV5TQgzjM4yo7yix7XyHhpc-GkhHy-9ClnR5Y/edit?usp=drive_link)
 
 
