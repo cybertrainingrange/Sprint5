@@ -48,7 +48,7 @@ SIEM systems collect, analyze, and correlate security event information from var
 
 
 
-|SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC)|
+| [SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) |
 | ----------------------- | 
 
 
