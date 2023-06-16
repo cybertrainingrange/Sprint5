@@ -142,7 +142,7 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 - Gyan [@gyan](https://github.com/gyanlawson)
 - Jane [@jjperipheral](https://github.com/jjperipheral)
 - Jared [@jared](https://www.github.com/)
-- Maira [@maira](https://www.github.com/)
+- Maira [@maira](https://github.com/mbarri0s)
 - Nancy [@nancyuddin](https://github.com/nancyuddin)
 - Neiman [@Neiman](https://github.com/bull-in-the-heather)
 - Victor [@vick627](https://github.com/vick627)
